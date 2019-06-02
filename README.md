@@ -18,4 +18,5 @@ Activate the POLYHEDRA add-on in Blender3d settings.
 
 Скопировать папку "polyhedra" в
 >>>..../Blender Foundation/Blender/2.75/scripts/addons
+
 Активировать в настройках Blender3d дополнение POLYHEDRA.
