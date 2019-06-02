@@ -3,7 +3,7 @@ Addon for Blender3d. Addon generate mesh any of for thirteen Archimedean polyhed
 
 Minimum version of Blender3d to install add-on, v2.75a
 
-#####installation#####
+Installation
 
 copy folder "polyhedra" in
 
@@ -15,7 +15,7 @@ Activate the POLYHEDRA add-on in Blender3d settings.
 регулярных звездных многогранников Кеплера–пуансона.
 Минимальная версия Blender3d для установки дополнения, v2.75a
 
-####Установка#####
+Установка
 
 Скопировать папку "polyhedra" в
 >>>..../Blender Foundation/Blender/2.75/scripts/addons
