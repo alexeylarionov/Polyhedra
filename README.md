@@ -22,8 +22,13 @@ Activate the POLYHEDRA add-on in Blender3d settings.
 Активировать в настройках Blender3d дополнение POLYHEDRA.
 
 User interface
+
 ![User interface](https://github.com/alexeylarionov/Polyhedra/blob/master/polyhedra/images/User%20Interface.JPG)
+
 Archimedean_solid
+
 ![Archimedean solid](https://github.com/alexeylarionov/Polyhedra/blob/master/polyhedra/images/archimedean_solid.JPG) 
+
 Kepler-Poinsot solid
+
 ![Kepler-Poinsot solid](https://github.com/alexeylarionov/Polyhedra/blob/master/polyhedra/images/kepler_poinsot_solid.JPG)
