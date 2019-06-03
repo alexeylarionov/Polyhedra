@@ -22,4 +22,4 @@ Activate the POLYHEDRA add-on in Blender3d settings.
 
 Активировать в настройках Blender3d дополнение POLYHEDRA.
 
-![User interface](https://github.com/alexeylarionov/Polyhedra/raw/polyhedra/images/User%20Interface.JPG)
+![User interface](https://github.com/alexeylarionov/Polyhedra/blob/master/polyhedra/images/User%20Interface.JPG)
