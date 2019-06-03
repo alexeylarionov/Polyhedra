@@ -2,7 +2,6 @@
 Addon for Blender3d. Addon generate mesh any of for thirteen Archimedean polyhedra and any of four regular star polyhedra Kepler–Poinsot.
 Minimum version of Blender3d to install add-on, v2.75a
 
-# Polyhedra
 Аддон для Blender3d. Аддон генерирует сетку любого из тринадцати Архимедовых многогранников и любого из четырех
 регулярных звездных многогранников Кеплера–пуансона.
 Минимальная версия Blender3d для установки дополнения, v2.75a
@@ -22,4 +21,9 @@ Activate the POLYHEDRA add-on in Blender3d settings.
 
 Активировать в настройках Blender3d дополнение POLYHEDRA.
 
+User interface
 ![User interface](https://github.com/alexeylarionov/Polyhedra/blob/master/polyhedra/images/User%20Interface.JPG)
+Archimedean_solid
+![Archimedean solid](https://github.com/alexeylarionov/Polyhedra/blob/master/polyhedra/images/archimedean_solid.JPG) 
+Kepler-Poinsot solid
+![Kepler-Poinsot solid](https://github.com/alexeylarionov/Polyhedra/blob/master/polyhedra/images/kepler_poinsot_solid.JPG)
