@@ -21,3 +21,5 @@ Activate the POLYHEDRA add-on in Blender3d settings.
 >>>..../Blender Foundation/Blender/2.75/scripts/addons
 
 Активировать в настройках Blender3d дополнение POLYHEDRA.
+
+![User interface](https://ibb.co/SvkfdWL)
